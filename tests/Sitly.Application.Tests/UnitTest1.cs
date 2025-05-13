@@ -1,4 +1,4 @@
-namespace TestProject1
+namespace Sitly.Application.Tests
 {
     public class UnitTest1
     {
